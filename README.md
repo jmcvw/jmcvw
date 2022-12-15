@@ -2,7 +2,7 @@
 
 My name is John and, currently, I work as an instructor on the [data analysis courses](https://codeclan.com/courses/data-courses/) at  [![](images/CodeClan-Logo-White-2019-01.png)](https://www.codeclan.com)
 
-I am most comfortable speaking in the [R](https://www.r-project.org/) language, but can also make myself undertood in python SQL and JS.
+I am most comfortable speaking in the [R](https://www.r-project.org/) language, but can also make myself undertood in python, SQL, and JS.
 
 I am currently learning more about Bayesian statistics and python programming.
 
