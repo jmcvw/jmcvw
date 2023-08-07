@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-My name is John and, currently, I work as an instructor on the [data analysis courses](https://codeclan.com/courses/data-courses/) at  [![](images/CodeClan-Logo-White-2019-01.png)](https://www.codeclan.com)
+My name is John, and I am a data scientist / analyst.
+Most recently I worked as an instructor on the [data analysis courses](https://codeclan.com/courses/data-courses/) at  [![](images/CodeClan-Logo-White-2019-01.png)](https://www.codeclan.com).
 
-I am most comfortable speaking in the [R](https://www.r-project.org/) language, but can also make myself undertood in python, SQL, and JS.
+I am most comfortable speaking in the [R](https://www.r-project.org/) language, but can also make myself undertood in Python, SQL, and JS.
 
 I am currently learning more about Bayesian statistics and python programming.
+
+### Currenrtly
+
+With the recent liquidation of CodeClan, I am looking for work in a data related field.
+In the meantime, I am hoping to continue helping the former CC students whose courses were cut short!
 
 ### Pre CodeClan
 
