@@ -3,7 +3,7 @@
 My name is John, and I am a data scientist / analyst.
 Most recently I worked as an instructor on the [data analysis courses](https://codeclan.com/courses/data-courses/) at  [![](images/CodeClan-Logo-White-2019-01.png)](https://www.codeclan.com).
 
-I am most comfortable speaking in the [R](https://www.r-project.org/) language, but can also make myself undertood in Python, SQL, and JS.
+I am most comfortable speaking in the [R](https://www.r-project.org/) language, but can also make myself undertood in Python, SQL, and JS. And sometimes, if I mash the keyboard a bit, something resembling Haskell occasionally pops out.
 
 I am currently learning more about Bayesian statistics and python programming.
 
