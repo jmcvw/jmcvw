@@ -7,9 +7,9 @@ I am most comfortable speaking in the [R](https://www.r-project.org/) language, 
 
 I am currently learning more about Bayesian statistics and python programming.
 
-### Currenrtly
+### Currently
 
-With the recent liquidation of CodeClan, I am looking for work in a data related field.
+With the recent liquidation of CodeClan, I will be starting a new role very soon.
 In the meantime, I am hoping to continue helping the former CC students whose courses were cut short!
 
 ### Pre CodeClan
