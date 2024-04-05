@@ -2,7 +2,7 @@
 
 <img src="images/uni-edin-logo.jpg" alt="University of Edinburgh logo" width="100"/>
 
-I'm John. I am a taching fellow at Edinburgh University where I teach on the MSc Data Science programme.
+I'm John. I am a teaching fellow at Edinburgh University where I teach on the MSc Data Science programme.
 
 ![](images/CodeClan-Logo-White-2019-01.png)
 
