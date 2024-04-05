@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-![](images/uni-edin-logo.png) 
+![](images/uni-edin-logo.png)
+
 I'm John. I am a taching fellow at Edinburgh University where I teach on the MSc Data Science programme.
 
-![](images/CodeClan-Logo-White-2019-01.png) 
+![](images/CodeClan-Logo-White-2019-01.png)
+
 For a while I worked as an instructor at the Edinburgh digital skills academy, CodeClan, where I taught data science to career changers.
 But then the Scottish government chose not to continue its backing, and failed to help keep it afloat.
 
