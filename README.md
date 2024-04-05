@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](images/uni-edin-logo.jpg){ width: 200px; }
+<img src="images/uni-edin-logo.jpg" alt="University of Edinburgh logo" width="200"/>
 
 I'm John. I am a taching fellow at Edinburgh University where I teach on the MSc Data Science programme.
 
