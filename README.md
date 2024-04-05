@@ -1,18 +1,21 @@
 ## Hi there 👋
 
-My name is John, and I am a data scientist / analyst.
-Most recently I worked as an instructor on the [data analysis courses](https://codeclan.com/courses/data-courses/) at  [![](images/CodeClan-Logo-White-2019-01.png)](https://www.codeclan.com).
+![](images/uni-edin-logo.png) 
+I'm John. I am a taching fellow at Edinburgh University where I teach on the MSc Data Science programme.
+
+![](images/CodeClan-Logo-White-2019-01.png) 
+For a while I worked as an instructor at the Edinburgh digital skills academy, CodeClan, where I taught data science to career changers.
+But then the Scottish government chose not to continue its backing, and failed to help keep it afloat.
+
+## Languages
 
 I am most comfortable speaking in the [R](https://www.r-project.org/) language, but can also make myself undertood in Python, SQL, and JS. And sometimes, if I mash the keyboard a bit, something resembling Haskell occasionally pops out.
 
-I am currently learning more about Bayesian statistics and python programming.
+### Currently working on
 
-### Currently
+- Wrapping my head back around academia!
 
-With the recent liquidation of CodeClan, I will be starting a new role very soon.
-In the meantime, I am hoping to continue helping the former CC students whose courses were cut short!
-
-### Pre CodeClan
+### Earlier
 
 Prior to working at CC I was a researcher at the [University of Stirling](https://www.stir.ac.uk/).
 
