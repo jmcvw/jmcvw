@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](images/uni-edin-logo.png)
+![](images/uni-edin-logo.jpg)
 
 I'm John. I am a taching fellow at Edinburgh University where I teach on the MSc Data Science programme.
 
