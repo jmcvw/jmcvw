@@ -2,12 +2,11 @@
 
 <img src="images/uni-edin-logo.jpg" alt="University of Edinburgh logo" width="100"/>
 
-I'm John. I am a teaching fellow at Edinburgh University where I teach on the MSc Data Science programme.
+I'm John. Since Novermber 2021 I have been a teaching fellow at Edinburgh University where I teach on the Data Science in Health and Social Care MSc programme.
 
 ![](images/CodeClan-Logo-White-2019-01.png)
 
 For a while I worked as an instructor at the Edinburgh digital skills academy, CodeClan, where I taught data science to career changers.
-But then the Scottish government chose not to continue its backing, and failed to help keep it afloat.
 
 ## Languages
 
